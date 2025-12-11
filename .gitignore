@@ -1,4 +1,7 @@
 venv/
 __pycache__/
-uploads/
 generated/
+uploads/
+*.pyc
+.env
+DATABASE_URL
