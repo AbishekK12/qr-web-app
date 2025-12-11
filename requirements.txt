@@ -1,0 +1,6 @@
+flask
+flask-sqlalchemy
+pymysql
+qrcode[pil]
+pillow
+cryptography
